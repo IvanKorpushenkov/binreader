@@ -1,2 +1,2 @@
-# sentinel1_IPFaux
-Provide easy access to Sentinel-1A/B IPF auxiliary data files
+# What is Sentinel1_IPFaux?
+**Sentinel1_IPFaux** is an application for easy auxuliary data access of Sentinel-1A/B images.
